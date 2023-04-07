@@ -74,7 +74,7 @@ onMounted(() => {
 			<p>打赏账号</p>
 			<img src="https://img.juyuantop.cn/tBFuLi.jpg">
 			<p>微信群-里面有二狗子机器人接入了ChatGPT3.5</p>
-			<img src="https://img.juyuantop.cn/qcL1pN.png" alt="QQ图片20230330015439.png" title="QQ图片20230330015439.png" />
+			<img src="https://img.juyuantop.cn/rYKQt6.jpg" alt="微信图片_20230408022951.jpg" title="微信图片_20230408022951.jpg" />
     </div>
   </NSpin>
 </template>
