@@ -220,7 +220,7 @@ function handleImportButtonClick(): void {
         </NButton>
       </div>
 			<div>
-        <span><a href="http://ai.juyuan2022.com" target="_blank">免费AI绘画地址-.-可以进群一起分享画画</a></span>
+        <span><a href="http://ai.juyuan2022.com" target="_blank">免费AI绘画地址-.-可以进群一起分享画画,教程看博客地址里面搜AI绘画</a></span>
       </div>
     </div>
   </div>
