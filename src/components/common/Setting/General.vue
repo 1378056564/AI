@@ -219,8 +219,8 @@ function handleImportButtonClick(): void {
           {{ $t('common.reset') }}
         </NButton>
       </div>
-			<div class="flex items-center space-x-4">
-        <span class="flex-shrink-0 w-[100px]"><a href="http://ai.juyuan2022.com" target="_blank">免费AI绘画地址-.-可以进群一起分享画画</a></span>
+			<div>
+        <span><a href="http://ai.juyuan2022.com" target="_blank">免费AI绘画地址-.-可以进群一起分享画画</a></span>
       </div>
     </div>
   </div>
